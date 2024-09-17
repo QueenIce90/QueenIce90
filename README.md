@@ -2,13 +2,13 @@
 Hi, I'm Isamar! 👋  
 (pronounced IS-a-mar in English or Ee-sa-Mah in Spanish)  
 
-- 🌆 Born and raised in New York City.  
-- 💖 Passionate about unity and creating positive change for myself and others.  
-- 🏥 Initially pursued a path in the medical field, but discovered my true passion lies in **technology**.  
-- 💻 Excited by the challenges of building something amazing from scratch.  
-- 🚀 Love developing innovative apps and programs that enhance user experiences.  
-- 🎨 Enjoy exploring creativity in my own space.  
-- 🌈 Focused on staying positive, having fun, and cherishing time with family.  
+🌆 Born and raised in New York City.  
+💖 Passionate about unity and creating positive change for myself and others.  
+🏥 Initially pursued a path in the medical field, but discovered my true passion lies in **technology**.  
+💻 Excited by the challenges of building something amazing from scratch.  
+🚀 Love developing innovative apps and programs that enhance user experiences.  
+🎨 Enjoy exploring creativity in my own space.  
+🌈 Focused on staying positive, having fun, and cherishing time with family.  
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/isamar-gonzalez-banos-677ba8241) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://www.youtube.com/@IsamarTheCreator) 
