@@ -1,6 +1,14 @@
 # 💫 About Me:
-Hi, I'm Isamar! 👋<br> (pronounced IS-a-mar in English or Ee-sa-Mah in Spanish)<br><br>Born and raised in New York City, I've always been passionate about unity and creating positive change for myself and others. Although I initially pursued a path in the medical field, I discovered my true passion lies in technology. The challenges it presents and the rewarding feeling of building something amazing from scratch is what truly excites me.<br><br>I love developing innovative apps and programs that can enhance user experiences, giving me the freedom to explore creativity in my own space. I'm all about staying positive, having fun, and cherishing time with my family.<br><br>
+Hi, I'm Isamar! 👋  
+(pronounced IS-a-mar in English or Ee-sa-Mah in Spanish)  
 
+- 🌆 Born and raised in New York City.  
+- 💖 Passionate about unity and creating positive change for myself and others.  
+- 🏥 Initially pursued a path in the medical field, but discovered my true passion lies in **technology**.  
+- 💻 Excited by the challenges of building something amazing from scratch.  
+- 🚀 Love developing innovative apps and programs that enhance user experiences.  
+- 🎨 Enjoy exploring creativity in my own space.  
+- 🌈 Focused on staying positive, having fun, and cherishing time with family.  
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/isamar-gonzalez-banos-677ba8241) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://www.youtube.com/@IsamarTheCreator) 
@@ -21,7 +29,13 @@ Hi, I'm Isamar! 👋<br> (pronounced IS-a-mar in English or Ee-sa-Mah in Spanish
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Queenice90&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
+### 🛠 Certifications
+- [Software Engineer Certification- Full Stack Developer](#) (Issued by Flatiron School)
+
 ---
 [![](https://visitcount.itsvg.in/api?id=Queenice90&icon=0&color=0)](https://visitcount.itsvg.in)
+[![GitHub Followers](https://img.shields.io/github/followers/Queenice90?style=social)](https://github.com/Queenice90)
+[![GitHub Stars](https://img.shields.io/github/stars/Queenice90?style=social)](https://github.com/Queenice90)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
